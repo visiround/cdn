@@ -1,0 +1,15 @@
+{
+  "data": {
+    "id": "34347bf6-8756-4074-90cd-2b58abb04daf",
+    "name": "Segunda Planta",
+    "map": {
+      "src": "https://i.pinimg.com/564x/90/a7/63/90a7636289190f4852d27c4cee8ae9b2.jpg",
+      "opacity": 0.5,
+      "size": {
+        "width": 564,
+        "height": 459
+      }
+    },
+    "pointers": []
+  }
+}

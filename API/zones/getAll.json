@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "id": "e5d816be-e11e-4c45-b817-e08eb35314cc",
+      "name": "Primera Planta",
+      "quantityScenes": 2
+    },
+    {
+      "id": "34347bf6-8756-4074-90cd-2b58abb04daf",
+      "name": "Segunda Planta",
+      "quantityScenes": 0
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": {
+    "id": "e5d816be-e11e-4c45-b817-e08eb35314cc",
+    "name": "Primera Planta",
+    "map": {
+      "src": "https://support.content.office.net/es-es/media/9fbc6289-a5de-4954-ae03-0ef707ac66e2.gif",
+      "opacity": 0.9,
+      "size": {
+        "width": 335,
+        "height": 316
+      }
+    },
+    "pointers": [
+      {
+        "id": "7ffd821e-9069-43c0-858a-80c54e8e9849",
+        "scene": "6e998eb7-3fc4-49d8-b662-9237d6a19f26",
+        "name": "Punto 1",
+        "position": {
+          "x": 23.52,
+          "y": 38.61
+        },
+        "meta": {
+          "showTitle": false
+        }
+      },
+      {
+        "id": "822cb894-900f-44c8-8816-35471b4b29e2",
+        "scene": "fca22579-4b82-4088-808a-ba17558888ab",
+        "name": "Punto 2",
+        "position": {
+          "x": 80.83,
+          "y": 68.67
+        },
+        "meta": {
+          "showTitle": true
+        }
+      }
+    ]
+  }
+}
